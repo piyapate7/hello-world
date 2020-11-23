@@ -1,2 +1,6 @@
 # hello-world
-just for test repository 
+i am bo   
+
+age 23 
+
+sex man
